@@ -1,0 +1,441 @@
+.menu{
+    background-color: rgb(241, 112, 37);
+}
+.navbar {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 55px;
+    display: block;
+    margin: 0px auto;
+}
+.navbar th a{
+    text-decoration: none;
+}
+.navbar th a:hover{
+    color: orange;
+}
+.root1 td b a{
+text-decoration: none;
+font-size: 25px;
+color: blue;
+}
+.root2 a{
+text-decoration: none;
+color: blue;
+}
+.root3{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 500px;
+    display:block;
+    margin: 0px auto;
+    font-size: 20px;
+}
+.root4 td b a{
+    color: black;
+    font-size: 18px;
+}
+.root4 td b a{
+    text-decoration: none;
+}
+.root4 td b a:hover{
+    color: orange;
+}
+.root5 a{
+    text-decoration: none;
+    color: blue;}
+.root5{
+    background-color: rgb(255, 255, 255);
+    width: 20%;
+    height: 50px;
+    margin: 0px auto;
+    display: block;
+    font-size: 18px;}
+.root2{
+    background-color: rgb(255, 255, 255);
+    width: 20%;
+    height: 50px;
+    margin: 0px auto;
+    display: block;
+    font-size: 18px;
+}
+.root td b a{
+    color: black;
+    font-size: 18px;
+}
+.root td b a{
+    text-decoration: none;
+}
+.root td b a:hover{
+    color: orange;
+}
+.roor li{
+    list-style: none;
+    float: left;
+    position: relative;
+    display: block;
+}
+.roor li a {
+    text-decoration: none;
+    padding: 0px 35px 0px 35px;
+    line-height: 50px;
+    display: block;
+}
+.menu2{
+    background-color: rgb(255, 255, 255);
+    width: 98%;
+    height: 50px;
+    display: block;
+    margin: 0 auto;
+}
+.menu2 ul li a{
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.roor li a:hover{
+    color: orange;
+}
+.submenu{
+    width: 200px;
+    background-color: #FFFFFF;
+    color: orange;
+    min-height: 50px;
+    display: none;
+    position: absolute;
+}
+.submenu li {
+    list-style: none;
+}
+.submenu li a{
+    text-transform: none;
+    text-decoration: none;
+    color: rgb(3, 35, 117);
+    display: block;
+    line-height: 30px;
+    border: 0 rebeccapurple solid;
+}
+.roor li:hover .submenu{
+    width: 390px;
+    display: block;
+    background-color: rgb(241, 112, 37);
+    color: white;
+    transition: ease-in-out 0.35s;
+}
+.submenu li a:hover{ 
+    color:rgb(255, 255, 255);
+    transition: ease-in-out 0.35s;
+}
+
+.submenu1{
+    width: 200px;
+    background-color: #FFFFFF;
+    color: orange;
+    min-height: 50px;
+    display: none;
+    position: absolute;}
+.submenu1 li {
+    list-style: none;}
+.submenu1 li a{
+    text-transform: none;
+    text-decoration: none;
+    color: rgb(3, 35, 117);
+    display: block;
+    line-height: 30px;
+    border: 0 rebeccapurple solid;}
+.roor li:hover .submenu1{
+    width: 390px;
+    display: block;
+    background-color: rgb(241, 112, 37);
+    color: white;
+    transition: ease-in-out 0.35s;}
+.submenu1 li a:hover{
+    color: rgb(255, 255, 255);
+    transition: ease-in-out 0.35s;}
+
+.submenu2{
+    width: 200px;
+    background-color: #FFFFFF;
+    color: orange;
+    min-height: 50px;
+    display: none;
+    position: absolute;}
+.submenu2 li {
+    list-style: none;}
+.submenu2 li a{
+    text-transform: none;
+    text-decoration: none;
+    color: rgb(3, 35, 117);
+    display: block;
+    line-height: 30px;
+    border: 0 rebeccapurple solid;}
+.roor li:hover .submenu2{
+    width: 390px;
+    display: block;
+    background-color: rgb(241, 112, 37);
+    color: white;
+    transition: ease-in-out 0.35s;}
+.submenu2 li a:hover{
+    color: rgb(255, 255, 255);
+    transition: ease-in-out 0.35s;}
+        
+.submenu3{
+    width: 200px;
+    background-color: #FFFFFF;
+    color: orange;
+    min-height: 50px;
+    display: none;
+    position: absolute;}
+.submenu3 li {
+    list-style: none;}
+.submenu3 li a{
+    text-transform: none;
+    text-decoration: none;
+    color: rgb(3, 35, 117);
+    display: block;
+    line-height: 30px;
+    border: 0 rebeccapurple solid;}
+.roor li:hover .submenu3{
+    width: 390px;
+    display: block;
+    background-color: rgb(241, 112, 37);
+    color: white;
+    transition: ease-in-out 0.35s;}
+.submenu3 li a:hover{
+    color: rgb(255, 255, 255);
+    transition: ease-in-out 0.35s;}
+
+.submenu4{
+    width: 200px;
+    background-color: #FFFFFF;
+    color: orange;
+    min-height: 50px;
+    display: none;
+    position: absolute;}
+.submenu4 li {
+    list-style: none;}
+.submenu4 li a{
+    text-transform: none;
+    text-decoration: none;
+    color: rgb(3, 35, 117);
+    display: block;
+    line-height: 30px;
+    border: 0 rebeccapurple solid;}
+.roor li:hover .submenu4{
+    width: 390px;
+    display: block;
+    background-color: rgb(241, 112, 37);
+    color: white;
+    transition: ease-in-out 0.35s;}
+.submenu4 li a:hover{
+    color: rgb(255, 255, 255);
+    transition: ease-in-out 0.35s;}
+
+.submenu5{
+    width: 200px;
+    background-color: #FFFFFF;
+    color: orange;
+    min-height: 50px;
+    display: none;
+    position: absolute;}
+.submenu5 li {
+    list-style: none;}
+.submenu5 li a{
+    text-transform: none;
+    text-decoration: none;
+    color: rgb(3, 35, 117);
+    display: block;
+    line-height: 30px;
+    border: 0 rebeccapurple solid;}
+.roor li:hover .submenu5{
+    width: 390px;
+    display: block;
+    background-color: rgb(241, 112, 37);
+    color: white;
+    transition: ease-in-out 0.35s;}
+.submenu5 li a:hover{
+    color: rgb(255, 255, 255);
+    transition: ease-in-out 0.35s;}
+
+.submenu6{
+    width: 200px;
+    background-color: #FFFFFF;
+    color: orange;
+    min-height: 50px;
+    display: none;
+    position: absolute;}
+.submenu6 li {
+                list-style: none;}
+.submenu6 li a{
+    text-transform: none;
+    text-decoration: none;
+    color: rgb(3, 35, 117);
+    display: block;
+    line-height: 30px;
+    border: 0 rebeccapurple solid;}
+.roor li:hover .submenu6{
+    width: 390px;
+    display: block;
+    background-color: rgb(241, 112, 37);
+    color: white;
+    transition: ease-in-out 0.35s;}
+.submenu6 li a:hover{
+color: rgb(255, 255, 255);
+transition: ease-in-out 0.35s;}
+
+.submenu7{
+    width: 200px;
+    background-color: #FFFFFF;
+    color: orange;
+    min-height: 50px;
+    display: none;
+    position: absolute;}
+                    
+.submenu7 li {
+    list-style: none;}
+.submenu7 li a{
+    text-transform: none;
+    text-decoration: none;
+    color: rgb(3, 35, 117);
+    display: block;
+    line-height: 30px;
+    border: 0 rebeccapurple solid;}
+.roor li:hover .submenu7{
+    width: 390px;
+    display: block;
+    background-color: rgb(241, 112, 37);
+    color: white;
+    transition: ease-in-out 0.35s;}
+.submenu7 li a:hover{
+    color: rgb(255, 255, 255);
+    transition: ease-in-out 0.35s;}
+                    
+.submenu8{
+    width: 200px;
+    background-color: #FFFFFF;
+    color: orange;
+    min-height: 50px;
+    display: none;
+    position: absolute;}
+.submenu8 li {
+    list-style: none;}
+.submenu8 li a{
+    text-transform: none;
+    text-decoration: none;
+    color: rgb(3, 35, 117);
+    display: block;
+    line-height: 30px;
+    border: 0 rebeccapurple solid;}
+.roor li:hover .submenu8{
+    width: 390px;
+    display: block;
+    background-color: rgb(241, 112, 37);
+    color: white;
+    transition: ease-in-out 0.35s;}
+.submenu7 li a:hover{
+    color: rgb(255, 255, 255);
+    transition: ease-in-out 0.35s;}
+h1{text-transform: uppercase;
+text-align: center;
+color:  rgb(3, 35, 117);}
+.section{font-size: 24px;
+    padding-top: 10px;text-align: center;
+    margin-top: 4px;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 720px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.col-md-4{
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+    position: relative;
+    width: 100%;
+    padding-right: 0%;
+    padding-left: 0px;
+}
+.box{margin-bottom: 69px;
+    text-align: center;}
+.box .text{font-size: 22px;color: #000000;
+    display: inline-block;
+    margin-bottom: 7px;
+}
+.box .number{font-size: 50px;color: #20409a;
+    font-weight: bold;}
+.footer-top{
+    background-color: #f4f4f4;
+    padding: 24px 0 14px;
+}
+.footer-top .time{
+    font-size: 15px;
+    color: #9b9b9b;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.row1{margin-left: -12px;
+    margin-right: -12px;
+    display: flex;
+    flex-wrap: wrap;
+color:rgb(3, 35, 117);}
+.box-ft{
+    margin-bottom: 30px;
+}
+.list-links{list-style: none;
+    padding: 0;
+    font-size: 20px;
+}
+.list-links li a  {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+.list-links li a:hover{
+    color: orange;
+}
+div{
+    display: block;
+}
+.nav-footer ul li a{
+    text-decoration:none;
+    list-style: none;
+    color: rgb(0, 0, 0);
+}
+.nav-footer li{
+    list-style: none;
+}
+ .nav-footer li a:hover{
+    color: orange;
+}
+.nav-footer{
+    border:solid 2px rgb(3, 35, 117) ;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 20px; 
+    padding: 0px;
+    height: 55px;
+    margin:auto;
+    width: 600px;
+}
+.h2{
+    background-color: rgb(255, 255, 255);
+    width:100%;
+    height: 60px;
+    display:block;
+    margin: 0px auto;
+    text-align: center;
+}
+.row1 .box-ft .list-links{
+    text-align: left;
+    margin-right: 110px;
+}
+.row1 .box-ft h2{
+    margin-left: -150px;
+}
